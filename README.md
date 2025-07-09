@@ -1,4 +1,4 @@
-# Parking App
+# Intelligent Parking Reservation System 
 
 
 
@@ -42,29 +42,29 @@ In the project directory, you can run:
 
 1\) npm start
 
-&nbsp;  Runs the app in development mode.
+   Runs the app in development mode.
 
-&nbsp;  Open http://localhost:3000 to view it in your browser.
+   Open http://localhost:3000 to view it in your browser.
 
 
 
 2\) npm test
 
-&nbsp;  Launches the test runner in interactive watch mode.
+   Launches the test runner in interactive watch mode.
 
 
 
 3\) npm run build
 
-&nbsp;  Builds the app for production in the "build" folder.
+   Builds the app for production in the "build" folder.
 
 
 
 4\) npm run eject
 
-&nbsp;  WARNING: This is a one-way operation.
+   WARNING: This is a one-way operation.
 
-&nbsp;  Use eject only if you need to customize the build configuration.
+   Use eject only if you need to customize the build configuration.
 
 
 
@@ -102,19 +102,19 @@ https://facebook.github.io/create-react-app/docs/deployment
 
 \- Create React App Documentation:
 
-&nbsp; https://facebook.github.io/create-react-app/docs/getting-started
+  https://facebook.github.io/create-react-app/docs/getting-started
 
 
 
 \- React Documentation:
 
-&nbsp; https://reactjs.org/
+  https://reactjs.org/
 
 
 
 \- React Router:
 
-&nbsp; https://reactrouter.com/ (if used)
+  https://reactrouter.com/ (if used)
 
 ### 
 
